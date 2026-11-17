@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/heng695/tiny-chess-4k/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/heng695/tiny-chess-4k/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A chess engine in under 4 KB of Python: negamax search with a transposition table, quiescence, null-move pruning and tapered piece-square tables, playing the make.fun tiny-chess-01 gauntlet over HTTP. Deterministic: it searches to a fixed node budget, never to a clock.
+A chess engine in under 4 KB of Python: negamax search with a transposition table, quiescence, null-move pruning and tapered piece-square tables, plus passed-pawn and rook open-file evaluation, playing the make.fun tiny-chess-01 gauntlet over HTTP. Deterministic: it searches to a fixed node budget, never to a clock.
 
 ## Run it
 
